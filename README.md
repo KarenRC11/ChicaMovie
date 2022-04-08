@@ -1,2 +1,2 @@
-# Recetas-de-cocina
-Sitio web de recetas de cocina
+# ChicaMovie
+Sitio web de reseñas de pelis
